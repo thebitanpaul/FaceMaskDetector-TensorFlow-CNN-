@@ -1,5 +1,5 @@
 
-# Face Mask Detector
+# Face Mask Detector - TensorFlow(CNN)
 
 A Covid Warrior : Face Mask Recogniser is a modern day implementation of Machine Learning using TensorFlow. It will not only save people's life during pandemic, but also spreads awareness about wearning face mask properly.
 
